@@ -1,7 +1,5 @@
 // import 'package:flutter/material.dart';
 // import 'package:shimmer/shimmer.dart';
-// import 'package:wollette/main.dart';
-// import 'package:wollette/until/app_colors.dart';
 //
 // class Skeleton extends StatefulWidget {
 //   final double height;
